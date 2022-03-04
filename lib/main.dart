@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_inputs/checkbox_input.dart';
 import 'package:flutter_inputs/dropdown_input.dart';
 import 'package:flutter_inputs/radio_input.dart';
+import 'package:flutter_inputs/slider_input.dart';
 import 'package:flutter_inputs/switch_input.dart';
 import 'package:flutter_inputs/text_input.dart';
 
@@ -52,6 +53,7 @@ class _MyHomePageState extends State<MyHomePage> {
               // RadioInput()
               // SwitchInput()
               // DropdownInput()
+              // SliderInput()
               EmailsInput()
             ],
           ),
